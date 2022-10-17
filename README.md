@@ -1,16 +1,11 @@
-# 🚧 README em construção 🚧
+# Docker Excercise CLI Comands
 
-<!-- Olá, Tryber!
-
-Esse é apenas um arquivo inicial para o README do seu projeto.
-
-É essencial que você preencha esse documento por conta própria, ok?
-
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+- Este exercício, realizado durante o modulo de Backend do curso de desenvolvimento de software da Trybe, favorece a prática de comandos Docker no CLI. 
+- A proposta é praticar os comandos docker necessários de acordo com os requisitos como:
+  - Usar comandos dockers no CLI - Interface de linha de comando;
+  - Criar um contêiner Docker para uma aplicação de front-end;
+  - Criar um contêiner Docker para uma aplicação de back-end;
+  - Criar um contêiner Docker para uma aplicação de testes;
+  - Orquestrar os três contêineres utilizando o Docker compose.
+ 
+- Cada arquivo contem um requisito e o comando necessário pra executá-lo.
