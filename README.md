@@ -22,4 +22,4 @@
 - [x] 9. Gere uma build a partir do Dockerfile do back-end do todo-app nomeando a imagem para todobackend.
 - [ ] 10. Gere uma build a partir do Dockerfile do front-end do todo-app nomeando a imagem para todofrontend.
 - [ ] 11. Gere uma build a partir do Dockerfile dos testes do todo-app nomeando a imagem para todotests.
-- [ ]12. Suba uma orquestração em segundo plano com o docker-compose de forma que backend, frontend e tests consigam se comunicar.
+- [ ] 12. Suba uma orquestração em segundo plano com o docker-compose de forma que backend, frontend e tests consigam se comunicar.
